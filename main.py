@@ -68,6 +68,3 @@ def playlist_get(playlistId):
 def album_browse_get(albumBrowseId):
     album_browse_results = ytmusic.get_album_browse_id(albumBrowseId)
     return album_browse_results
-
-
-app.run(host='0.0.0.0', port=81, debug=True)
