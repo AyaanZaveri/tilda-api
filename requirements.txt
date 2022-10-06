@@ -1,3 +1,4 @@
 ytmusicapi @ https://files.pythonhosted.org/packages/0e/5a/4a5316bddbb697d4b1787159291edfeffd10f73c08b59c7248b15291b601/ytmusicapi-0.22.0-py3-none-any.whl#sha256=d042520f3f76eac2c1498130dbc4e8a4af21ca73496590a5ff054fc4da0af1d8
 Flask @ https://files.pythonhosted.org/packages/0f/43/15f4f9ab225b0b25352412e8daa3d0e3d135fcf5e127070c74c3632c8b4c/Flask-2.2.2-py3-none-any.whl#sha256=b9c46cc36662a7949f34b52d8ec7bb59c0d74ba08ba6cb9ce9adc1d8676d9526
 Flask-Cors==3.0.10
+gunicorn==20.1.0
